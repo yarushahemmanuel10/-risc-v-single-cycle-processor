@@ -17,7 +17,7 @@ This project implements a **RISC-V processor** using a **single-cycle architectu
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/anam309/Risc-V-Single-Cycle-Architecture-With-CSR.git
+   git clone https://github.com/yarushahemmanuel10/Risc-V-Single-Cycle-Architecture-With-CSR
    ```
 2. Open the project in **VSCode** and ensure you have the necessary SystemVerilog extensions installed.
 3. Compile the SystemVerilog files using your preferred simulator (ModelSim/Vivado).
